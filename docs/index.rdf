@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:cc="http://web.resource.org/cc/"
+xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://koyamamichio.com/">
+<title>ボランティア・ストリートチルドレン・ベトナム  小山道夫火炎樹日記</title>
+<link>http://koyamamichio.com/</link>
+<description></description>
+<dc:language></dc:language>
+<dc:creator></dc:creator>
+<dc:date>2016-05-18T11:56:16+09:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.01D-ja" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://koyamamichio.com/archives/2016/05/jassvn_1.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/11/post_3753.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/11/post_3754.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/06/jassvn.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/06/post_3751.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/06/post_3750.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/06/post_3749.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/05/post_3747.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/05/post_3745.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/05/post_3728.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/05/post_3743.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/05/post_3725.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/05/post_3746.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/05/post_3744.html" />
+<rdf:li rdf:resource="http://koyamamichio.com/archives/2015/05/post_3742.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://koyamamichio.com/archives/2016/05/jassvn_1.html">
+<title>ブログはjass.vnで</title>
+<link>http://koyamamichio.com/archives/2016/05/jassvn_1.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2016-05-18T11:56:16+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/11/post_3753.html">
+<title>小山道夫</title>
+<link>http://koyamamichio.com/archives/2015/11/post_3753.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-11-19T21:08:51+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/11/post_3754.html">
+<title>小山道夫</title>
+<link>http://koyamamichio.com/archives/2015/11/post_3754.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-11-19T21:08:51+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/06/jassvn.html">
+<title>火炎樹日記はjass.vn　へ移行しました</title>
+<link>http://koyamamichio.com/archives/2015/06/jassvn.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-06-09T15:46:20+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/06/post_3751.html">
+<title>６月１４日（日）「とめよう　戦争法案」「集まろう　国会へ」</title>
+<link>http://koyamamichio.com/archives/2015/06/post_3751.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-06-07T20:59:40+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/06/post_3750.html">
+<title>恵比寿「山種美術館」上村松園参観</title>
+<link>http://koyamamichio.com/archives/2015/06/post_3750.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-06-06T06:08:50+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/06/post_3749.html">
+<title>ももの木鍼灸治療院にて治療</title>
+<link>http://koyamamichio.com/archives/2015/06/post_3749.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-06-04T19:59:21+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/05/post_3747.html">
+<title>鍼灸治療を受ける</title>
+<link>http://koyamamichio.com/archives/2015/05/post_3747.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-05-30T10:35:07+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/05/post_3745.html">
+<title>衆議特別委員会をテレビでみる</title>
+<link>http://koyamamichio.com/archives/2015/05/post_3745.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-05-28T09:08:45+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/05/post_3728.html">
+<title>自宅休養：ＮＨＫＴＶで「党首討論」を見る</title>
+<link>http://koyamamichio.com/archives/2015/05/post_3728.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-05-26T16:05:26+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/05/post_3743.html">
+<title>赤羽へ買い物</title>
+<link>http://koyamamichio.com/archives/2015/05/post_3743.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-05-25T09:27:41+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/05/post_3725.html">
+<title>終日、休息</title>
+<link>http://koyamamichio.com/archives/2015/05/post_3725.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-05-24T09:08:10+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/05/post_3746.html">
+<title>東北福祉大学講演会</title>
+<link>http://koyamamichio.com/archives/2015/05/post_3746.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-05-23T09:47:39+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/05/post_3744.html">
+<title>ももの木鍼灸院通院</title>
+<link>http://koyamamichio.com/archives/2015/05/post_3744.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-05-22T06:43:53+09:00</dc:date>
+</item>
+<item rdf:about="http://koyamamichio.com/archives/2015/05/post_3742.html">
+<title>東北福祉大学講演会レジュメ作り</title>
+<link>http://koyamamichio.com/archives/2015/05/post_3742.html</link>
+<description>a...</description>
+<dc:subject></dc:subject>
+<dc:creator>koyama</dc:creator>
+<dc:date>2015-05-19T14:55:19+09:00</dc:date>
+</item>
+
+
+</rdf:RDF>
